@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".GymglishActivityActivity">
+    <item android:id="@+id/gymglish" android:title="@string/gymglish"/>
+    <item android:id="@+id/frantastique" android:title="@string/frantastique"/>
+    <item android:id="@+id/vatefaireconjuguer" android:title="@string/vatefaireconjuguer" />
+</menu>

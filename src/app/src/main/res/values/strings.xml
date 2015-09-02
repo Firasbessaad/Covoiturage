@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gymglish</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gymglish">Gymglish</string>
+    <string name="frantastique">Frantastique</string>
+    <string name="vatefaireconjuguer">Vatefaireconjuguer</string>
+    <string name="text">this is a test</string>
+
+</resources>
